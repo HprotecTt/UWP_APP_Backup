@@ -15,6 +15,7 @@
 ![开始菜单](https://tvax4.sinaimg.cn/large/008fEidvgy1gnacbbl9g9j30va09raek.jpg)
 > 若你需要批量清空UWP应用缓存，可使用快捷键【Window】+【R】打开运行窗口，输入wsreset后确认
 > ![运行wsreset](https://tva4.sinaimg.cn/large/008fEidvgy1gnacla4zmaj30e907kaa5.jpg)
+> 
 > 将会清空全部UWP应用的缓存
 > ![wsreset](https://tvax1.sinaimg.cn/large/008fEidvgy1gnacl9vgdcj30xy0hqt8n.jpg)
 > 清理完成后将自动打开Microsoft Store
@@ -34,5 +35,5 @@
 
 # 本项目目录结构
 分类
-	安装包
+	各平台安装包
 	简介文档
