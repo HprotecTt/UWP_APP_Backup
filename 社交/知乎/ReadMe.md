@@ -4,6 +4,7 @@
 # 安装
 下载对应版本安装包后双击打开安装，其中【arm】适用于Windows Phone，【x86】适用于32位PC，【x64】适用于64位PC，【.AppxbBundle】文件包含全平台版本及运行所需依赖，可双击安装，各独立版本安装时会自行安动相关依赖。
 ![知乎安装](https://tva4.sinaimg.cn/large/008fEidvgy1gnagibaxmgj30s10f5t9i.jpg)
+> [点我从Microsoft Store安装](https://www.microsoft.com/store/productId/9NBLGGH4MKB0)
 ## 应用信息
 ## 简介
 知乎第三方客户端，更新与2019.02.05，目前已停止更新。
