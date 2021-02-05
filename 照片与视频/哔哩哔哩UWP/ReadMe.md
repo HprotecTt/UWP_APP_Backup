@@ -4,6 +4,7 @@
 下载对应版本文件后解压，内含安装教程，导入证书，再双击安装包打开安装即可，其中【x86】适用于32位PC，【x64】适用于64位PC，【arm】适用于ARM架构PC，【arm64】适用于ARM架构64位PC。
 
 解压
+
 ![哔哩哔哩UWP解压](https://tva4.sinaimg.cn/large/008fEidvgy1gnco054y6tj30lj03jaak.jpg)
 
 右键单击证书选择【安装证书】
